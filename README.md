@@ -3,6 +3,8 @@
 ## Overview
 A C# library for BMP image processing and manipulation with Huffman compression algorithm integration. This project provides various image filters, transformations, and fractal generation capabilities.
 
+See the gallery for any visuals.
+
 ## Features
 - **Image Processing**
   - Grayscale conversion (standard and weighted)
