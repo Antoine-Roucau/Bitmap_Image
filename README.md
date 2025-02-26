@@ -28,6 +28,10 @@ A C# library for BMP image processing and manipulation with Huffman compression 
     Here are our 5 best fractal images generated using this library. For more examples, please see the image gallery included with the project.
 
 ![Fractal 1](Galerie/fractale_1.png)
+![Fractal 2](Galerie/fractale_2.png)
+![Fractal 3](Galerie/fractale_3.png)
+![Fractal 4](Galerie/fractale_4.png)
+![Fractal 5](Galerie/fractale_5.png)
 
 ## Implementation Notes
 * The Huffman compression algorithm creates a frequency table for color values, builds a Huffman tree, and encodes pixel values.
