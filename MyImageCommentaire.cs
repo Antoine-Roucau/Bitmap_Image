@@ -1,7 +1,7 @@
 ﻿using System.Numerics;
 using System.Runtime.Serialization;
 
-namespace TD1_2_Pb_Scientifique_Info
+namespace BitmapProject
 {
     public class MyImage
     {
