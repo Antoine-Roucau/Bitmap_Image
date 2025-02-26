@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BitmapProject")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ae8509c2bc6dab3f367dc2c01de31b44dc91f432")]
 [assembly: System.Reflection.AssemblyProductAttribute("BitmapProject")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BitmapProject")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
