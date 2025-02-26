@@ -1,4 +1,4 @@
-# Bitmap Image Processing Library
+# Bitmap Image Processing Library with Alexandre Allaire
 
 ## Overview
 A C# library for BMP image processing and manipulation with Huffman compression algorithm integration. This project provides various image filters, transformations, and fractal generation capabilities.
