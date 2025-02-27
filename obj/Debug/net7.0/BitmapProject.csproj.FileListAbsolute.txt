@@ -13,3 +13,18 @@ C:\Users\Antoine\Documents\VS_Code\C#_File\Bitmap Image\BitmapProject\obj\Debug\
 C:\Users\Antoine\Documents\VS_Code\C#_File\Bitmap Image\BitmapProject\obj\Debug\net7.0\BitmapProject.pdb
 C:\Users\Antoine\Documents\VS_Code\C#_File\Bitmap Image\BitmapProject\obj\Debug\net7.0\BitmapProject.genruntimeconfig.cache
 C:\Users\Antoine\Documents\VS_Code\C#_File\Bitmap Image\BitmapProject\obj\Debug\net7.0\ref\BitmapProject.dll
+C:\Users\Antoine\OneDrive\Bordel\Documents\GitHub\Bitmap_Image\bin\Debug\net7.0\BitmapProject.exe
+C:\Users\Antoine\OneDrive\Bordel\Documents\GitHub\Bitmap_Image\bin\Debug\net7.0\BitmapProject.deps.json
+C:\Users\Antoine\OneDrive\Bordel\Documents\GitHub\Bitmap_Image\bin\Debug\net7.0\BitmapProject.runtimeconfig.json
+C:\Users\Antoine\OneDrive\Bordel\Documents\GitHub\Bitmap_Image\bin\Debug\net7.0\BitmapProject.dll
+C:\Users\Antoine\OneDrive\Bordel\Documents\GitHub\Bitmap_Image\bin\Debug\net7.0\BitmapProject.pdb
+C:\Users\Antoine\OneDrive\Bordel\Documents\GitHub\Bitmap_Image\obj\Debug\net7.0\BitmapProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Antoine\OneDrive\Bordel\Documents\GitHub\Bitmap_Image\obj\Debug\net7.0\BitmapProject.AssemblyInfoInputs.cache
+C:\Users\Antoine\OneDrive\Bordel\Documents\GitHub\Bitmap_Image\obj\Debug\net7.0\BitmapProject.AssemblyInfo.cs
+C:\Users\Antoine\OneDrive\Bordel\Documents\GitHub\Bitmap_Image\obj\Debug\net7.0\BitmapProject.csproj.CoreCompileInputs.cache
+C:\Users\Antoine\OneDrive\Bordel\Documents\GitHub\Bitmap_Image\obj\Debug\net7.0\BitmapProject.sourcelink.json
+C:\Users\Antoine\OneDrive\Bordel\Documents\GitHub\Bitmap_Image\obj\Debug\net7.0\BitmapProject.dll
+C:\Users\Antoine\OneDrive\Bordel\Documents\GitHub\Bitmap_Image\obj\Debug\net7.0\refint\BitmapProject.dll
+C:\Users\Antoine\OneDrive\Bordel\Documents\GitHub\Bitmap_Image\obj\Debug\net7.0\BitmapProject.pdb
+C:\Users\Antoine\OneDrive\Bordel\Documents\GitHub\Bitmap_Image\obj\Debug\net7.0\BitmapProject.genruntimeconfig.cache
+C:\Users\Antoine\OneDrive\Bordel\Documents\GitHub\Bitmap_Image\obj\Debug\net7.0\ref\BitmapProject.dll
